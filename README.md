@@ -21,17 +21,17 @@ My_app
 > vim ~/.bashrc
 
 # add the following configuration
-> export AWS_ACCESS_KEY_ID=
-> export AWS_SECRET_ACCESS_KEY=
-> export AWS_DEFAULT_REGION=
+- export AWS_ACCESS_KEY_ID=
+- export AWS_SECRET_ACCESS_KEY=
+- export AWS_DEFAULT_REGION=
 
 
 # load the settings in the same terminal
 > source ~/.bashrc
 
 # confirm if the access key is properly configured
-> echo $AWS_ACCESS_KEY_ID
-> echo $AWS_SECRET_ACCESS_KEY
+- echo $AWS_ACCESS_KEY_ID
+- echo $AWS_SECRET_ACCESS_KEY
 
 ====
 
