@@ -14,5 +14,6 @@ My_app
 
 ```
 
-![img](/img.png)
+![Image](https://raw.githubusercontent.com/rishabdesai/tarraform_block/main/modules/img.png  "Terraform module diagram")
+
 
